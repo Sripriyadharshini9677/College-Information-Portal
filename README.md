@@ -71,5 +71,7 @@ Navigate through the website using the menu
 📬 Contact
 
 Developer: Sri Priya Dharshini S
+
 sri166737@gmail.com
+
 https://www.linkedin.com/in/sri-priya-dharshini-59978122a/
